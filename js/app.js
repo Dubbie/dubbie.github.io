@@ -1,0 +1,1 @@
+window.onload=function(){const o=document.querySelectorAll("section");let t=0;for(const n of o)window.setTimeout(function(){n.style.display="block",n.style.transform="translateY(0)",n.style.opacity=1},t),t+=300};
